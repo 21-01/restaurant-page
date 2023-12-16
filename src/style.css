@@ -1,0 +1,14 @@
+.hidden{
+    display: none;
+}
+
+#content{
+    width: 512px;
+    margin: 0px auto;
+}
+
+#content *{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+}
